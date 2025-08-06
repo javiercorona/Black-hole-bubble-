@@ -1,0 +1,5 @@
+\[
+\boxed{
+\mathbb{G}_{\mu\nu}^{(\text{Bubble})} = G_{\mu\nu} \left( 1 + \chi B_{\mu\lambda} B^\lambda_\nu \right) + \eta_{\mu\nu} \nabla_\mu \nabla_\nu \Phi + I_{\mu\nu}^{(\text{quantum})}
+}
+\]  
